@@ -52,16 +52,9 @@ Focused on building reliable, scalable, and clean software solutions.
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nirupama-l-3483b5331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/nirupama-l-3483b5331/">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirupama14V&show_icons=true&theme=graywhite" />
 </p>
 
 ---
