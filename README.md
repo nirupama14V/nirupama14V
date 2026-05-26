@@ -24,17 +24,15 @@ Focused on building reliable, scalable, and clean software solutions.
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Aspiring **Software Engineer** with strong fundamentals in web technologies  
-- 💻 Interested in backend development and full-stack systems  
-- 🌱 Continuously learning and improving through hands-on projects  
-- 🔍 Passionate about writing clean, maintainable, and efficient code  
-- 🚀 Motivated to grow into a professional software engineering role  
+-  Aspiring **Software Engineer** with strong fundamentals in web technologies  
+- Interested in backend development and full-stack systems  
+- Continuously learning and improving through hands-on projects  
 
 ---
 
 ### 🛠️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,github,vscode" />
 </p>
 
 ---
